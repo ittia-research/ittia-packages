@@ -1,0 +1,29 @@
+{
+  "name": "ittia",
+  "version": "0.1.0",
+  "description": "Connect to the ITTIA APIs or self-hosted ones",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ittia-research/ittia-packages.git"
+  },
+  "keywords": [
+    "fact-check",
+    "ai",
+    "llm",
+    "rag",
+    "api"
+  ],
+  "author": "ITTIA <contact@ittia.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ittia-research/ittia-packages/issues"
+  },
+  "homepage": "https://ittia.net",
+  "dependencies": {
+    "axios": "^1.7.8"
+  }
+}

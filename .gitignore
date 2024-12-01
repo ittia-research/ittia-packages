@@ -3,3 +3,8 @@ __pycache__/
 
 # poetry build
 dist/
+
+# npm
+node_modules
+*.tgz
+package-lock.json
